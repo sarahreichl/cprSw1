@@ -1,0 +1,17 @@
+init: 	inizialisiert (erstellt) neues lokales Git Repository
+config:	über git config wird definiert welcher Name/E-Mail/Alias verwendet wird 
+clone:	klont public Repo in lokales Verzeichnis
+add:	damit Datei in dem Repository ist
+rm:	(rm = remove) entfernt Datei
+commit:	fügt Datei im Repository hinzu ("speichert" Datei)
+remote:	gemeinsames Verzeichnis (zum Änderungen austauschen)
+push:	um lokale Inhalte ins Remote-Repository hochzuladen
+pull:	zum abrufen und hochladen in anderes Repository 
+status:	zeigt Status des akuellen git Verzeichnisses (Änderungen/hochgeladene Dateien)
+diff:	zeigt Differenzen der commits, zweige, usw. (für Status des Repositorys)
+reset:	damit können lokale Änderungen eines Repositorys geändert werdenbra
+log:	zeigt wer/was/wann im Repository commited hat
+branch:	ein Zweig (z.b. master)
+checkout: zum wechseln der Zweige
+merge:	die von git branch unabhängigen Arbeiten werden mit git merge zusammengeführt
+
